@@ -1,0 +1,22 @@
+/* .Navbar{
+
+    padding: 10px;
+    width:15%;
+    background-color: yellowgreen;
+    height: 500px;
+    padding: 20px;
+    position: relative;
+    z-index: 9999;
+  }
+     
+  .item a{
+
+    display: flex;
+    flex-direction: column;
+    color:white;
+    text-decoration: none;
+  }
+
+  .item a.active{
+    color:gold;
+    } */
